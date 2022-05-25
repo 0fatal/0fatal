@@ -18,7 +18,7 @@
 <br/>
 <hr/>
 <br/>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=ZacharyWin&show_icons=true&count_private=true" alt="" style="width:49%;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZacharyWin&hide=css&layout=compact&langs_count=8" alt="" style="width:49%;">
-</div>
+
+[![](https://raw.githubusercontent.com/ZacharyWin/ZacharyWin/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ZacharyWin/ZacharyWin/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ZacharyWin/ZacharyWin/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ZacharyWin/ZacharyWin/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ZacharyWin/ZacharyWin/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
