@@ -7,6 +7,9 @@
 
 📬 Email: zacharywin233@gmail.com
 
+
+<!--START_SECTION:activity-->
+
 <br/>
 <hr />
 <br/>
