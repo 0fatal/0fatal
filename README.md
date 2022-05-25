@@ -12,13 +12,13 @@
 <br/>
 
 <div>
-<div style="max-width:49%;display:inline-block;"><img alt="" src="./github-metrics.svg" ></div>
-<div style="max-width:49%;display:inline-block;"><img alt="" src="./isocalendar.fullyear.svg"></div>
+<div style="width:49%;display:inline-block;"><img alt="" src="./github-metrics.svg" ></div>
+<div style="width:49%;display:inline-block;"><img alt="" src="./isocalendar.fullyear.svg"></div>
 </div>
 <br/>
 <hr/>
 <br/>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=ZacharyWin&show_icons=true&count_private=true" alt="" style="max-width:49%;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZacharyWin&hide=css&layout=compact&langs_count=8" alt="" style="max-width:49%;">
+<img src="https://github-readme-stats.vercel.app/api?username=ZacharyWin&show_icons=true&count_private=true" alt="" style="width:49%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZacharyWin&hide=css&layout=compact&langs_count=8" alt="" style="width:49%;">
 </div>
