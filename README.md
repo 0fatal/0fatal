@@ -31,11 +31,11 @@
 <tbody>
 <tr>
 <td align="center">
-<img alt="" src="https://raw.githubusercontent.com/0xfatal/0xfatal/main/profile-summary-card-output/default/2-most-commit-language.svg" >
+<img alt="" src="https://raw.githubusercontent.com/0fatal/0fatal/main/profile-summary-card-output/default/2-most-commit-language.svg" >
 </td>
-<td align="center"><img alt="" src="https://raw.githubusercontent.com/0xfatal/0xfatal/main/profile-summary-card-output/default/4-productive-time.svg"></td>
+<td align="center"><img alt="" src="https://raw.githubusercontent.com/0fatal/0fatal/main/profile-summary-card-output/default/4-productive-time.svg"></td>
 </tr>
 </tbody>
 </table>
 
-[![](https://raw.githubusercontent.com/0xfatal/0xfatal/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/0fatal/0fatal/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
