@@ -1,9 +1,9 @@
 <div align="center"><img alt="" width="400" src="./banner.png" alt=""></img></div>
 <br>
 <br>
-🫰 Hi! I am a full stack developer
+🫰 Hi! I am a developer
 
-🎯 Learning IOS develop now ~
+🎯 Learning iOS develop now ~
 
 📬 Email: zacharywin233@gmail.com
 
