@@ -3,7 +3,7 @@
 <br>
 🫰 Hi! I am a developer
 
-🎯 Learning iOS develop now ~
+🎯 Learning cloud native now ~
 
 📬 Email: zacharywin233@gmail.com
 
